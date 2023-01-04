@@ -14,6 +14,9 @@
 // - In the fourth round, you complete 2 tasks of difficulty level 4.  
 // It can be shown that all the tasks cannot be completed in fewer than 4 rounds, so the answer is 4.
 
+//TC - O(N)
+//SC - O(N)
+
 #include<bits/stdc++.h>
 using namespace std;
 class Solution {
